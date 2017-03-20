@@ -1,1 +1,1 @@
-"# jquery-net-server" 
+# jquery-net-server
